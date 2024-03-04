@@ -15,13 +15,13 @@
 
 - 👨‍💻 All of my projects are available at [https://docs.google.com/document/d/154zx8JT8kzTSRR-O-YjeQl-rE7EQeiTpgXX3SEE7wic/edit?usp=sharing](https://docs.google.com/document/d/154zx8JT8kzTSRR-O-YjeQl-rE7EQeiTpgXX3SEE7wic/edit?usp=sharing)
 
-- 📝 I regularly write articles on [I don't](I don't)
+- 📝 I regularly write articles on (I don't)
 
-- 🤝 I’m also looking for help with **building sites/ translating languages**
+- 🤝 I’m also looking for help with **building sites/ translating coding languages**
 
-- 📫 How to reach me **don't**
+- 📫 How to reach me **(don't)**
 
-- 📄 Know about my experiences [No](No)
+- 📄 Know about my experiences (No)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
